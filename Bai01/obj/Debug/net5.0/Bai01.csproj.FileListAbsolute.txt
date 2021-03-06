@@ -1,0 +1,16 @@
+D:\hihi\Module1\Bai01\bin\Debug\net5.0\Bai01.exe
+D:\hihi\Module1\Bai01\bin\Debug\net5.0\Bai01.deps.json
+D:\hihi\Module1\Bai01\bin\Debug\net5.0\Bai01.runtimeconfig.json
+D:\hihi\Module1\Bai01\bin\Debug\net5.0\Bai01.runtimeconfig.dev.json
+D:\hihi\Module1\Bai01\bin\Debug\net5.0\Bai01.dll
+D:\hihi\Module1\Bai01\bin\Debug\net5.0\ref\Bai01.dll
+D:\hihi\Module1\Bai01\bin\Debug\net5.0\Bai01.pdb
+D:\hihi\Module1\Bai01\obj\Debug\net5.0\Bai01.csprojAssemblyReference.cache
+D:\hihi\Module1\Bai01\obj\Debug\net5.0\Bai01.GeneratedMSBuildEditorConfig.editorconfig
+D:\hihi\Module1\Bai01\obj\Debug\net5.0\Bai01.AssemblyInfoInputs.cache
+D:\hihi\Module1\Bai01\obj\Debug\net5.0\Bai01.AssemblyInfo.cs
+D:\hihi\Module1\Bai01\obj\Debug\net5.0\Bai01.csproj.CoreCompileInputs.cache
+D:\hihi\Module1\Bai01\obj\Debug\net5.0\Bai01.dll
+D:\hihi\Module1\Bai01\obj\Debug\net5.0\ref\Bai01.dll
+D:\hihi\Module1\Bai01\obj\Debug\net5.0\Bai01.pdb
+D:\hihi\Module1\Bai01\obj\Debug\net5.0\Bai01.genruntimeconfig.cache
